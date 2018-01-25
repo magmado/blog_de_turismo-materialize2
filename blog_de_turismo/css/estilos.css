@@ -1,0 +1,80 @@
+
+
+body {
+   background: url("../imagenes/fondo1.jpg")no-repeat left top fixed;
+   background-size: cover;
+}
+
+
+/** Barra de navegación **/
+header div{
+	margin-top: 30px;
+}
+
+nav{
+	background-color: inherit;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0), 0 1px 5px 0 rgba(0, 0, 0, 0), 0 3px 1px -2px rgba(0, 0, 0, 0);
+}
+nav ul a.btn, nav ul a.btn-large, nav ul a.btn-large, nav ul a.btn-flat, nav ul a.btn-floating{
+	padding-left: 10px;
+
+padding-right: 10px;
+
+margin-left: 10px;
+
+margin-right: 10px;
+}
+
+/** Cabecrea **/
+.redes-soc img{
+
+}
+
+/** Contenido **/
+.dip-block {
+ 	display: inline-block;
+ 	padding-top: 20px;
+}
+img {
+  border-radius: 5px;
+}
+
+.cont-prin1 {
+	margin-bottom: 10px;
+}
+
+.img-cont{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	float:left;
+	text-align: center;s
+	border-radius: 50%;
+	width:300px; 
+	height: 100%;
+}
+.img-cont2{
+	width:60%;
+	margin: auto;
+	display: block;
+}
+.midle{
+	margin-top: 10px;
+}
+h4{
+	color: white;
+	font-style: italic;
+}
+
+h6{
+	color: white;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.perfil2 {
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
